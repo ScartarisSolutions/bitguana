@@ -13,3 +13,6 @@ To install the Angular CLI:
         
 Add Bootstrap to an Angular CLI project
         https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/
+
+Bitguana : folder with .Net/C# projects
+bitg: web site
