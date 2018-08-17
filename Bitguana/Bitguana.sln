@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitguana", "Bitguana\Bitguana.csproj", "{8602F1A7-1AA0-4882-9343-D0F1A219D207}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bitguana.Web", "Bitguana.Web\Bitguana.Web.csproj", "{3E680A0C-F2AC-43D9-B18A-529523DBE63E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8602F1A7-1AA0-4882-9343-D0F1A219D207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8602F1A7-1AA0-4882-9343-D0F1A219D207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8602F1A7-1AA0-4882-9343-D0F1A219D207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8602F1A7-1AA0-4882-9343-D0F1A219D207}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E680A0C-F2AC-43D9-B18A-529523DBE63E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E680A0C-F2AC-43D9-B18A-529523DBE63E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E680A0C-F2AC-43D9-B18A-529523DBE63E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E680A0C-F2AC-43D9-B18A-529523DBE63E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC86E572-8A44-4D4F-A9F3-C18CA1D88B0E}
+	EndGlobalSection
+EndGlobal
